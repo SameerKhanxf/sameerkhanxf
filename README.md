@@ -1,4 +1,10 @@
 ### Hi there 👋
+👋 Hi, I’m @SameerKhanxf
+### 👀 I’m interested in Computer sciences in general and web development In particular
+🌱 I’m currently learning php , js
+💞️ I’m looking to collaborate on Improve my programming capabilities
+
+
 
 <!--
 **SameerKhanxf/sameerkhanxf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
