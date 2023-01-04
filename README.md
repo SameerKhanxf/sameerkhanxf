@@ -1,6 +1,8 @@
 ### Hi there 👋
 👋 Hi, I’m @SameerKhanxf
-🌱 I’m currently learning php , js
+
+🌱 I’m currently learning Python , Java
+
 💞️ I’m looking to collaborate on Improve my programming capabilities
 
 
